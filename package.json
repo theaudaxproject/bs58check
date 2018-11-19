@@ -1,12 +1,12 @@
 {
-  "name": "bs58smartcheck",
-  "version": "2.0.4",
-  "description": "A straightforward implementation of base58-check encoding for smartcash",
+  "name": "bs58swiftcheck",
+  "version": "1.0.0",
+  "description": "A straightforward implementation of base58-check encoding for swiftcash",
   "keywords": [
     "base",
     "base58",
     "base58check",
-    "smartcash",
+    "swiftcash",
     "bs58",
     "check",
     "checksum",
@@ -15,19 +15,19 @@
     "encode",
     "encoding"
   ],
-  "homepage": "https://github.com/SmartCash/bs58check",
+  "homepage": "https://github.com/swiftcashproject/bs58check",
   "bugs": {
-    "url": "https://github.com/SmartCash/bs58check/issues"
+    "url": "https://github.com/swiftcashproject/bs58check/issues"
   },
   "license": "MIT",
-  "author": "SmartCash Developers",
+  "author": "SwiftCash Developers",
   "files": [
     "index.js"
   ],
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SmartCash/bs58check.git"
+    "url": "https://github.com/swiftcashproject/bs58check.git"
   },
   "dependencies": {
     "bs58": "^4.0.0",

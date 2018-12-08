@@ -21,4 +21,4 @@ console.log(bs58swiftcheck.encode(decoded))
 ```
 
 
-## LICSENSE [MIT](LICENSE)
+## LICENSE [MIT](LICENSE)

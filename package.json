@@ -1,12 +1,12 @@
 {
-  "name": "bs58swiftcheck",
+  "name": "bs58audaxcheck",
   "version": "1.0.0",
-  "description": "A straightforward implementation of base58-check encoding for swiftcash",
+  "description": "A straightforward implementation of base58-check encoding for Audax",
   "keywords": [
     "base",
     "base58",
     "base58check",
-    "swiftcash",
+    "audax",
     "bs58",
     "check",
     "checksum",
@@ -15,19 +15,19 @@
     "encode",
     "encoding"
   ],
-  "homepage": "https://github.com/swiftcashproject/bs58check",
+  "homepage": "https://github.com/theaudaxproject/bs58check",
   "bugs": {
-    "url": "https://github.com/swiftcashproject/bs58check/issues"
+    "url": "https://github.com/theaudaxproject/bs58check/issues"
   },
   "license": "MIT",
-  "author": "SwiftCash Developers",
+  "author": "Audax Developers",
   "files": [
     "index.js"
   ],
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/swiftcashproject/bs58check.git"
+    "url": "https://github.com/theaudaxproject/bs58check.git"
   },
   "dependencies": {
     "bs58": "^4.0.0",
